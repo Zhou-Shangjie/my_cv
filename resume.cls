@@ -78,7 +78,7 @@
     {\bf #1} \enspace {\em #3}         \hfill         {\bf    #2}%
     \ifthenelse{\equal{#4}{}}{}{  % if prof + location not empty
         \\
-        {$\hookrightarrow$ #4}            \hfill          {\em #5}% Stop a space
+        {$\hookrightarrow$ #4}            \\          {\em #5}% Stop a space
     }\smallskip
     \begin{list}{\raisebox{0.4ex}{\tiny$\bullet$}\hspace{-1pt}}{\leftmargin=0em}
       \itemsep -0.6em \vspace{-.75em}
