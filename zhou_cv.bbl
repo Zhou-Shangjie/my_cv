@@ -1,9 +1,0 @@
-
-\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
-
-\bibitem{Zhou:2022dze}
-\myname{Zhou, Shangjie}, M.~Chen and J.~Jia, \emph{{Effect of electric
-  interaction on the deflection and gravitational lensing in the strong field
-  limit}},  \href{https://arxiv.org/abs/2203.05415}{{\ttfamily 2203.05415}}.
-
-\end{thebibliography}\endgroup
